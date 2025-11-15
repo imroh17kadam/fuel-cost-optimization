@@ -1,0 +1,10 @@
+jupyter
+notebook
+ipykernel
+scikit-learn
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+pyarrow

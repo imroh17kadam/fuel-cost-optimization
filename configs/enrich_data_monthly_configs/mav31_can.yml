@@ -1,0 +1,6 @@
+case_def_vars:
+  tonnage: mav31
+  folder_type: can
+  partition_col: vehicleId
+  dbName: default
+  sas_url: "../../data/curated/enriched/daily/can/"
